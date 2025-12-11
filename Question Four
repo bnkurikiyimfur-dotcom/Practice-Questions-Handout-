@@ -1,0 +1,2 @@
+items = ["ball","basketball", "net", "cart", "shoes"]
+print("The third item is:", items[2])  # index 2 = third item
